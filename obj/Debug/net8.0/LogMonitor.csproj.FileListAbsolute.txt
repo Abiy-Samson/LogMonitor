@@ -1,0 +1,14 @@
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\bin\Debug\net8.0\LogMonitor.exe
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\bin\Debug\net8.0\LogMonitor.deps.json
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\bin\Debug\net8.0\LogMonitor.runtimeconfig.json
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\bin\Debug\net8.0\LogMonitor.dll
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\bin\Debug\net8.0\LogMonitor.pdb
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\obj\Debug\net8.0\LogMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\obj\Debug\net8.0\LogMonitor.AssemblyInfoInputs.cache
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\obj\Debug\net8.0\LogMonitor.AssemblyInfo.cs
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\obj\Debug\net8.0\LogMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\obj\Debug\net8.0\LogMonitor.dll
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\obj\Debug\net8.0\refint\LogMonitor.dll
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\obj\Debug\net8.0\LogMonitor.pdb
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\obj\Debug\net8.0\LogMonitor.genruntimeconfig.cache
+C:\Users\Ab-Pc\oneDrive\desktop\LogMonitor\obj\Debug\net8.0\ref\LogMonitor.dll
